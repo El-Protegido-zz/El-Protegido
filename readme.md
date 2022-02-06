@@ -128,7 +128,7 @@
 
 <h2>Social Networks</h2>
 <ul>
-  <li><b>My Twitter: </b><a href="https://twitter.com/diegogb947">Diego Gutiérrez</a></li>
+  <li><b>My Twitter: </b><a href="https://twitter.com/Protectedblue">Protected Blue</a></li>
   <li><b>My LinkedIn: </b><a href="https://www.linkedin.com/in/diego-guti%C3%A9rrez-476126213">Diego Gutiérrez</a></li>
 </ul>
 <h2>Contact ✉️</h2>
