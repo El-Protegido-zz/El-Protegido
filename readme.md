@@ -130,7 +130,7 @@
 <ul>
   <li><b>My Twitter: </b><a href="https://twitter.com/Protectedblue">Protected Blue</a></li>
   <li><b>My LinkedIn: </b><a href="https://linkedin.com/in/diego-gutiérrez-borrego">Diego Gutiérrez</a></li>
-  <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/el-protegido">El-Protegido</a></li>
+  <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/elprotegido">El-Protegido</a></li>
 </ul>
 <h2>Contact ✉️</h2>
 <ul>
