@@ -138,7 +138,7 @@
   <li><b>My Email: </b><a href="mailto:diegogb947@protonmail.com">diegogb947@protonmail.com</a></li>
   <!-- <li><b>My Page: </b><a href="https://thewhitelionxs.github.io">https://thewhitelionxs.github.io</a></li> -->
 </ul>
-h2>Website</h2>
+<h2>Website</h2>
 <ul>
   <li><b>My Website: </b><a href="https://elprotegido.wordpress.com">El-Protegido</a></li>
 </ul>
