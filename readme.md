@@ -132,12 +132,6 @@
   <li><b>My LinkedIn: </b><a href="https://linkedin.com/in/diego-gutiérrez-borrego">Diego Gutiérrez</a></li>
   <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/elprotegido">El-Protegido</a></li>
 </ul>
-<h2>Contact ✉️</h2>
-<ul>
-  <li><b>My Telegram: </b><a href="https://t.me/elprotegido">El-Protegido</a></li>
-  <li><b>My Email: </b><a href="mailto:diegogb947@protonmail.com">diegogb947@protonmail.com</a></li>
-  <!-- <li><b>My Page: </b><a href="https://thewhitelionxs.github.io">https://thewhitelionxs.github.io</a></li> -->
-</ul>
 <h2>Website 🌍</h2>
 <ul>
   <li><b>My Website: </b><a href="https://elprotegido.wordpress.com">El-Protegido</a></li>
