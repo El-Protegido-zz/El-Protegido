@@ -130,6 +130,7 @@
 <ul>
   <li><b>My Twitter: </b><a href="https://twitter.com/diegogb947">Diego Gutiérrez</a></li>
   <li><b>My LinkedIn: </b><a href="https://linkedin.com/in/diego-gutiérrez-borrego">Diego Gutiérrez</a></li>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diego-gutiérrez-borrego" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/diego-guti%C3%A9rrez-borrego?trk=profile-badge">Diego Gutiérrez</a></div>
   <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/elprotegido">El-Protegido</a></li>
 </ul>
 <h2>Website 🌍</h2>
