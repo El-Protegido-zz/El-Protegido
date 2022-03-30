@@ -1,7 +1,7 @@
 <h1>WELLCOME 👋</h1>
 <h2>Curiosities About Me 💬</h2>
 <p>My real name is Diego Gutiérrez Borrego 👱‍♂️, but I prefer to be called by my nickname El Protegido 🦁.</p>
-<p>I'm from Spain 🇪🇸 and I am a passionate student about programming 🖥, ethical hacking or cybersecurity 👨🏽‍💻.</p>
+<p>I'm from Spain 🇪🇸 and I am a passionate student about programming 🖥, ethical hacking or IT specialist 👨🏽‍💻.</p>
 <ul>
   <li><b>My favorite code editors: </b><a>Visual Studio Code, Atom.</a></li>
   <li><b>My favorite Linux distributions: </b><a>Arch-Linux, Kali-Linux, Tails.</a></li>
