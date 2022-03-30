@@ -129,7 +129,7 @@
 <h2>Social Networks 👤</h2>
 <ul>
   <li><b>My Twitter: </b><a href="https://twitter.com/diegogb947">diegogb947</a></li>
-  <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/elprotegido">elprotegido</a></li>
+  <li><b>My Source Forge: </b><a href="https://sourceforge.net/u/elprotegido">El-Protegido</a></li>
   <li><b>My LinkedIn: </b><a href="https://linkedin.com/in/diego-gutiérrez-borrego">diego-gutiérrez-borrego</a></li>
 </ul>
 <h2>Website 🌍</h2>
