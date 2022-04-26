@@ -133,6 +133,6 @@
   <li><b>My LinkedIn: </b><a href="https://linkedin.com/in/diego-gutiérrez-borrego">diego-gutiérrez-borrego</a></li>
 </ul>
 <h2>Website 🌍</h2>
-<ul>
+<!--<ul>
   <li><b>My Website: </b><a href="https://elprotegido.wordpress.com">https://elprotegido.wordpress.com</a></li>
-</ul>
+</ul>-->
